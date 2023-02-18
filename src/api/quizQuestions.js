@@ -1,6 +1,6 @@
 var quizQuestions = [
   {
-      question: "What franchise would you rather play a game from?",
+      question: "Kamu menginginkan orang yang seperti apa untuk menjadi pasanganmu?",
       answers: [
           {
               type: "Microsoft",
